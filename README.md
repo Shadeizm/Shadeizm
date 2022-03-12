@@ -1,5 +1,7 @@
 Merhaba Ben Shâde.3 Yıldır Kodlama İşiyle Uğraşıyorum
 
+<img src="https://wakatime.com/badge/user/bdbb4298-9c5e-48de-9c4c-b60c034820ca.svg?style=flat" alt="Shadeizm"/>
+
 
 [discord]: https:/discord.com/add
 
