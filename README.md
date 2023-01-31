@@ -6,7 +6,6 @@
 ## Developer Ve Tasarımcıyım
 - 3 Yıldır Kodlama İşiyle Uğraşıyorum.
 - 1 Yıldır Tasarım İşiyle Uğraşıyorum.
-- Kendime Ait Bir Botlistim Var - [Karanal](www.botlistsite.tk)
 ## Benimle İletişime Geç
 <a href="https://discord.gg/5qg9T55w2c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
 
